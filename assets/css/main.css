@@ -502,6 +502,20 @@ body {
   column-gap: 1rem;
 }
 
+.project__footer {
+  border-top: 1px solid var(--color-border);
+  margin-top: 10rem;
+  padding-top: 4rem;
+  text-align: center;
+}
+
+.project__footer-text {
+  font-size: var(--fs-xl);
+  font-weight: var(--fw-bold);
+  color: var(--color-white);
+  margin-bottom: 2rem;
+}
+
 /* Testimonials
 --------------------------------------------------------------*/
 .testimonial__card {
